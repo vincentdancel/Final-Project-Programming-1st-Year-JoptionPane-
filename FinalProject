@@ -80,8 +80,7 @@ public class MiniProject {
         else {
             JOptionPane.showMessageDialog(null,"You are wrong!","Better luck next time!",JOptionPane.ERROR_MESSAGE);  
         }
-        JOptionPane.showMessageDialog(null,"You are wrong!","Better luck next time!",JOptionPane.ERROR_MESSAGE);  
-        }
+        
          //MEDIUM LEVEL
         
         String response3;
